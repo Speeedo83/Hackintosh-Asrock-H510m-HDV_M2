@@ -16,6 +16,9 @@ with OpenCore bootloader
 
 ### Computer Spec & Info:
 
+![infobigsur](./Screenshot/istatistica.png)
+
+
 | Component                       | Brank                          |What works and What doesn't            |
 | ----------------------------|------------------------------------|---------------------------------------|
 | CPU                         | Intel i5 10400 (6C-12T)            |[x] CFG Unlock                         |
@@ -31,9 +34,6 @@ with OpenCore bootloader
 | macOS                       | Sequoia 15.7.5                     |[x] Recovery (macOS) boot from OpenCore|
 
 
-
-![infobigsur](./Screenshot/istatistica.png)
-
 ### Bios Setup:
 
 ![bios](./Screenshot/setupbios.png)
@@ -42,11 +42,12 @@ NB: con schede video AMD il CSM deve essere su Disable per tutte le marche di sc
 
 ## Perimetral
 
-![usbsch](./screenshot/usbschema.png)
-![usbmap](./screenshot/usb.png)
-![infopci](./screenshot/pci.png)
-![audio](./screenshot/audio.png)
-![sensori](./screenshot/sensori.png)
+* USB Dongle Mic:
+At the moment there is no fix for the internal microphone and combojack microphone, as both are managed by the SST (Smart Sound Technology Intel) drive.
+I use a USB dongle and it works perfectly.
+
+
+![usbschema](./Screenshot/usbschema.png)       ![usb](./Screenshot/usb.png)
 
 ## All Apple native shortcuts for sleep, log out and Shut Down
 
