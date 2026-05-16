@@ -1,32 +1,34 @@
-[![](https://img.shields.io/badge/Gitter%20HL%20Community-Chat-informational?style=flat&logo=gitter&logoColor=white&color=ed1965)](https://gitter.im/Hackintosh-Life-IT/community)
-[![](https://img.shields.io/badge/EFI-Release-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/Speeedo83/Dell-Inspiron-5491-2in1-Hakintosh/releases)
+# Hackintosh Asrock H510m HDV\M2
+Full Hackintosh with i5 10400 + RX 580
+
+
 [![](https://img.shields.io/badge/Telegram-HackintoshLifeIT-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/HackintoshLife_it)
 [![](https://img.shields.io/badge/Facebook-HackintoshLifeIT-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)](https://www.facebook.com/hackintoshlife/)
 [![](https://img.shields.io/badge/Instagram-HackintoshLifeIT-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/hackintoshlife.it_official/)
 
-# Asrock H510m HDV\M2 i5 10400 + Sapphire RX 580 4g
-
-EFI for Dell Inspiron 5491 with OpenCore bootloader
-
-(Compatible for Dell Inspiron 5491/5591, these laptops use the same bios file)
-
-![descrizione](./Screenshot/pc.png)
+## repository no longer update
 
 
-### Computer Spec:
+## EFI Asrock H510m HDV\M2 + Intel WiFi(ac) + I5 10400 + 16g DDR4(crucial) + RX 580 4g
 
-| Component        | Brank                              |
-| ---------------- | ---------------------------------- |
-| CPU              | Intel i7 10510U (4C-8T 8MB CML)    |
-| iGPU             | Intel® Graphics Graphics UHD       |
-| Audio            | Realtek ALC236                     |
-| Ram              | 16 GB DDR4 2666 Mhz                |
-| Wifi + Bluetooth | BCM94360NG Fenvi                   |
-| NVMe             | HYNIX BC511 512 GB (MACOS)         |
-| SSD Sata         | SPCC Silicon Power 1TB (WINDOWS)   |
-| SmBios           | MacBookPro 16,3                    |
-| BootLoader       | OpenCore 0.6.9                     |
-| macOS            | Big Sur 11.3.1                     |
+with OpenCore bootloader
+
+
+### Computer Spec & Info:
+
+| Component                       | Brank                          |What works and What doesn't            |
+| ----------------------------|------------------------------------|---------------------------------------|
+| CPU                         | Intel i5 10400 (6C-12T)            |[x] CFG Unlock                         |
+| iGPU                        | Intel® Graphics UHD 630            |[x] Graphics UHD 630 (task only)       |
+| Audio                       | Realtek ALC897 7.1                 |[x] GPU Sapphire RX 580 4g             |
+| Ram                         | 16 GB DDR4 2133 Mhz                |[x] ALC897 All jack activate           |
+| Wifi + Bluetooth            | Intel CNVi interface ac (3165NGW)  |[x] ALC1220 Combo jack external        |
+| Lan                         | Intel I219-V GbE Lan               |[x] All USB-A 3.1 Ports                |
+| NVMe                        | Samsung 256g  (Mac OS).            |[x] SpeedStep/Sleep/Wake               |
+| SSD                         | SPCC Silicon Power 512G (DATI).    |[x] Wi-Fi and BT Intel - HeliPort/itlwm|
+| SmBios                      | iMac 20,1                          |[x] All Sensors CPU,GPU,NVME,SATA,FAN  |
+| BootLoader                  | OpenCore 1.0.7                     |[x] NVRAM                              |
+| macOS                       | Sequoia 15.7.5                     |[x] Recovery (macOS) boot from OpenCore|
 
 
 
