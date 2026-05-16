@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Facebook-HackintoshLifeIT-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)](https://www.facebook.com/hackintoshlife/)
 [![](https://img.shields.io/badge/Instagram-HackintoshLifeIT-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/hackintoshlife.it_official/)
 
-# DELL Inspiron 5491 2in1 (Comet Lake) Hackintosh
+# Asrock H510m HDV\M2 i5 10400 + Sapphire RX 580 4g
 
 EFI for Dell Inspiron 5491 with OpenCore bootloader
 
