@@ -38,13 +38,15 @@ with OpenCore bootloader
 
 ![bios](./Screenshot/setupbios.png)
 
-## Trik Mic Fix
-* USB Dongle Mic:
-At the moment there is no fix for the internal microphone and combojack microphone, as both are managed by the SST (Smart Sound Technology Intel) drive.
-I use a USB dongle and it works perfectly.
+NB: con schede video AMD il CSM deve essere su Disable per tutte le marche di schede madri
 
+## Perimetral
 
-![usbdongle](./Screenshot/usbdongle.png)       ![usbmic](./Screenshot/usbmic.png)
+![usbsch](./screenshot/usbschema.png)
+![usbmap](./screenshot/usb.png)
+![infopci](./screenshot/pci.png)
+![audio](./screenshot/audio.png)
+![sensori](./screenshot/sensori.png)
 
 ## All Apple native shortcuts for sleep, log out and Shut Down
 
