@@ -32,7 +32,7 @@ with OpenCore bootloader
 
 
 
-![infobigsur](./Screenshot/infomac.png)
+![infobigsur](./Screenshot/istatistica.png)
 
 ### What works and What doesn't or WIP:
 
