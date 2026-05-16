@@ -49,7 +49,7 @@ NB: con schede video AMD il CSM deve essere su Disable per tutte le marche di sc
 ![audio](./Screenshot/audio.png)
 ![sensori](./Screenshot/sensori.png)
 
-##Performance Benchmark
+## Performance Benchmark
 
 ![cpu](./Screenshot/cpubench.png)
 ![cpu](./Screenshot/cpubenchms.png)
