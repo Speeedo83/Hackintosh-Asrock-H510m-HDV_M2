@@ -45,6 +45,7 @@ NB: con schede video AMD il CSM deve essere su Disable per tutte le marche di sc
 ![usbschema](./Screenshot/usbschema.png)       
 ![usb](./Screenshot/usb.png)
 ![infopci](./Screenshot/pci.png)
+![audio](./Screenshot/perimetral.png)
 ![audio](./Screenshot/audio.png)
 ![sensori](./Screenshot/sensori.png)
 
@@ -53,6 +54,7 @@ NB: con schede video AMD il CSM deve essere su Disable per tutte le marche di sc
 ![cpu](./Screenshot/cpubench.png)
 ![cpu](./Screenshot/cpubenchms.png)
 ![gpu](./Screenshot/gpubench.png)
+![coding](./Screenshot/videoproc.png)
 
 
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
