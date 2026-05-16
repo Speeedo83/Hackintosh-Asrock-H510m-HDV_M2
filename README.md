@@ -42,16 +42,11 @@ NB: con schede video AMD il CSM deve essere su Disable per tutte le marche di sc
 
 ## Perimetral
 
-* USB Dongle Mic:
-At the moment there is no fix for the internal microphone and combojack microphone, as both are managed by the SST (Smart Sound Technology Intel) drive.
-I use a USB dongle and it works perfectly.
-
-
-![usbschema](./Screenshot/usbschema.png)       ![usb](./Screenshot/usb.png)
-
-## All Apple native shortcuts for sleep, log out and Shut Down
-
-![stopawake](./Screenshot/stopawake.png)
+![usbschema](./Screenshot/usbschema.png)       
+![usb](./Screenshot/usb.png)
+![infopci](./Screenshot/pci.png)
+![audio](./Screenshot/audio.png)
+![sensori](./Screenshot/sensori.png)
 
 ##Performance Sleep
 
