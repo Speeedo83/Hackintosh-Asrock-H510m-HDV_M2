@@ -48,9 +48,11 @@ NB: con schede video AMD il CSM deve essere su Disable per tutte le marche di sc
 ![audio](./Screenshot/audio.png)
 ![sensori](./Screenshot/sensori.png)
 
-##Performance Sleep
+##Performance Benchmark
 
-![sleep](./Screenshot/sleep.png)
+![cpu](./Screenshot/cpubench.png)
+![cpu](./Screenshot/cpubenchms.png)
+![gpu](./Screenshot/gpubench.png)
 
 
 ## CPU Performance by CPU Friend settings
