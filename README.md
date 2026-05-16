@@ -34,42 +34,9 @@ with OpenCore bootloader
 
 ![infobigsur](./Screenshot/istatistica.png)
 
-### What works and What doesn't or WIP:
+### Bios Setup:
 
-- [x] Intel Graphics UHD iGPU 
-- [x] Intel Graphics UHD iGPU HDMI Output
-- [x] IIntel Graphics UHD iGPU Type-C to HDMI Output
-- [x] ALC236 Internal Speakers
-- [ ] ALC236 Internal microphone (Digital Mic Intel SST not compatible)
-- [x] USB MINI Dongle Microphones  *
-- [x] ALC236 Combojack headphones
-- [ ] ALC236 Combojack microphone (WIP)
-- [x] ALC236 HDMI Audio Output
-- [x] ALC236 TYPE-C to HDMI Audio Output
-- [x] All USB-A 3.1 Ports (TYPE-C 3.2 Included)
-- [x] SpeedStep / Sleep / Wake **
-- [x] HID Key PWRB & SLPB 
-- [x] I2C Touch pad with gesture
-- [x] I2C Touch Screen
-- [x] Keyboard (PS2-Internal) with backlight
-- [x] F6 & F7 Brightness Key
-- [x] F10 Print Screen Key
-- [x] F1 & F2 & F3 Sound Key
-- [x] Wi-Fi and Bluetooth BCM94360NG Module
-- [x] Controller SATA III
-- [x] Controller NVME PciE Gen3x4 
-- [x] Micro SD Cardreader (USB-Internal)
-- [x] WebCam (USB-Internal)
-- [x] All Sensors CPU, IGPU, BATTERY, NVME, SATA, FAN
-- [x] ACPI Battery
-- [x] Apple VTD
-- [x] NVRAM (Native)
-- [x] Recovery (macOS) boot from OpenCore
-- [x] Windows 10 boot from OpenCore
-
-## OpenCore 0.6.9 Custum Gui by HachintoshLife
-
-![GUIOC](./Screenshot/GUIOC.png)
+![bios](./Screenshot/setupbios.png)
 
 ## Trik Mic Fix
 * USB Dongle Mic:
